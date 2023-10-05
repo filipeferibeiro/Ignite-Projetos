@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-10-04T21:20:19.220Z",
       "id": "8t3S7Oa"
+    },
+    {
+      "description": "Salario",
+      "price": 2010,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2023-10-04T23:52:14.361Z",
+      "id": "P4VM4jQ"
     }
   ]
 }
